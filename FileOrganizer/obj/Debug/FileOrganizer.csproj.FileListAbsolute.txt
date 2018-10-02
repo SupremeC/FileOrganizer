@@ -1,0 +1,9 @@
+c:\users\david.berglund\documents\visual studio 2013\Projects\FileOrganizer\FileOrganizer\bin\Debug\FileOrganizer.exe.config
+c:\users\david.berglund\documents\visual studio 2013\Projects\FileOrganizer\FileOrganizer\bin\Debug\FileOrganizer.exe
+c:\users\david.berglund\documents\visual studio 2013\Projects\FileOrganizer\FileOrganizer\bin\Debug\FileOrganizer.pdb
+c:\users\david.berglund\documents\visual studio 2013\Projects\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.csprojResolveAssemblyReference.cache
+c:\users\david.berglund\documents\visual studio 2013\Projects\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.Form1.resources
+c:\users\david.berglund\documents\visual studio 2013\Projects\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.Properties.Resources.resources
+c:\users\david.berglund\documents\visual studio 2013\Projects\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.csproj.GenerateResource.Cache
+c:\users\david.berglund\documents\visual studio 2013\Projects\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.exe
+c:\users\david.berglund\documents\visual studio 2013\Projects\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.pdb
